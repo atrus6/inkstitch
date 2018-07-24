@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-07-12 20:13-0400\n"
+"POT-Creation-Date: 2018-07-23 20:24-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -360,10 +360,16 @@ msgstr ""
 msgid "# stitches"
 msgstr ""
 
-msgid "# stops"
+msgid "# trims"
 msgstr ""
 
-msgid "# trims"
+msgid "stop after?"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
 msgstr ""
 
 msgid "Page"
@@ -415,13 +421,16 @@ msgstr ""
 msgid "Total stitch count"
 msgstr ""
 
-msgid "Total nr stops"
+msgid "Total stops"
 msgstr ""
 
-msgid "Total nr trims"
+msgid "Total trims"
 msgstr ""
 
 msgid "thread used"
+msgstr ""
+
+msgid "trims"
 msgstr ""
 
 msgid "Enter operator notes..."
